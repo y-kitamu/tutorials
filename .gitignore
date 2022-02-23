@@ -4,3 +4,6 @@
 *.h5
 *.pth
 *.elc
+__pycache__
+*.db
+target/
