@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+name = "csvtutor"
+version = "0.1.0"
+
+[dependencies]
+csv = "1"
+serde = "1"
+serde-derive = "1"
