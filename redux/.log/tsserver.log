@@ -1,0 +1,61 @@
+Info 0    [17:18:02.430] Starting TS Server
+Info 1    [17:18:02.431] Version: 4.5.4
+Info 2    [17:18:02.431] Arguments: /usr/local/bin/node /usr/local/lib/node_modules/typescript/lib/tsserver.js --logFile /home/kitamura/work/Learning/Tutorials/redux/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/112ddd8a0b99b112ad09749571bac583/tscancellation*
+Info 3    [17:18:02.431] Platform: linux NodeVersion: 16 CaseSensitive: true
+Info 4    [17:18:02.431] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [17:18:02.442] Format host information updated
+Info 6    [17:18:02.451] Search path: /home/kitamura/work/Learning/Tutorials/redux/src/features/counter
+Info 7    [17:18:02.452] For info: /home/kitamura/work/Learning/Tutorials/redux/src/features/counter/counterAPI.ts :: Config file name: /home/kitamura/work/Learning/Tutorials/redux/tsconfig.json
+Info 8    [17:18:02.453] Creating configuration project /home/kitamura/work/Learning/Tutorials/redux/tsconfig.json
+Info 9    [17:18:02.476] Config: /home/kitamura/work/Learning/Tutorials/redux/tsconfig.json : {
+ "rootNames": [
+  "/home/kitamura/work/Learning/Tutorials/redux/src/App.test.tsx",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/App.tsx",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/index.tsx",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/react-app-env.d.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/reportWebVitals.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/setupTests.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/app/hooks.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/app/store.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/features/counter/Counter.tsx",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/features/counter/counterAPI.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/features/counter/counterSlice.spec.ts",
+  "/home/kitamura/work/Learning/Tutorials/redux/src/features/counter/counterSlice.ts"
+ ],
+ "options": {
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "noFallthroughCasesInSwitch": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "noEmit": true,
+  "jsx": 4,
+  "configFilePath": "/home/kitamura/work/Learning/Tutorials/redux/tsconfig.json"
+ }
+}
+Info 10   [17:18:02.511] Starting updateGraphWorker: Project: /home/kitamura/work/Learning/Tutorials/redux/tsconfig.json
+Info 11   [17:18:04.152] Finishing updateGraphWorker: Project: /home/kitamura/work/Learning/Tutorials/redux/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1640.246505998075ms
+Info 12   [17:18:04.152] Project '/home/kitamura/work/Learning/Tutorials/redux/tsconfig.json' (Configured)
+Info 13   [17:18:04.152] 	Files (259)
+
+Info 14   [17:18:04.152] -----------------------------------------------
+Info 15   [17:18:04.162] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 16   [17:18:04.289] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 126.49628699570894ms
+Info 17   [17:18:04.289] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 18   [17:18:04.289] 	Files (77)
+
+Info 19   [17:18:04.289] -----------------------------------------------
+Info 20   [17:30:45.991] Search path: /home/kitamura/work/Learning/Tutorials/redux/src/features/counter
+Info 21   [17:30:45.992] For info: /home/kitamura/work/Learning/Tutorials/redux/src/features/counter/counterSlice.ts :: Config file name: /home/kitamura/work/Learning/Tutorials/redux/tsconfig.json

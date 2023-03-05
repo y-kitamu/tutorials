@@ -1,0 +1,16 @@
+[17:52:32.179] Global cache location '/home/kitamura/.cache/typescript/4.5', safe file path '/usr/local/lib/node_modules/typescript/lib/typingSafeList.json', types map path /usr/local/lib/node_modules/typescript/lib/typesMap.json
+[17:52:32.179] Processing cache location '/home/kitamura/.cache/typescript/4.5'
+[17:52:32.179] Trying to find '/home/kitamura/.cache/typescript/4.5/package.json'...
+[17:52:32.180] Finished processing cache location '/home/kitamura/.cache/typescript/4.5'
+[17:52:32.180] Process id: 1093910
+[17:52:32.180] NPM location: /usr/local/bin/npm (explicit '--npmLocation' not  provided)
+[17:52:32.180] validateDefaultNpmLocation: false
+[17:52:32.180] Npm config file: /home/kitamura/.cache/typescript/4.5/package.json
+[17:52:32.180] Updating types-registry npm package...
+[17:52:32.180] Exec: /usr/local/bin/npm install --ignore-scripts types-registry@latest
+[17:52:32.186]     Failed. stdout:
+    stderr:
+    /bin/sh: 1: /usr/local/bin/npm: not found
+    
+[17:52:32.186] Updated types-registry npm package
+[17:52:32.187] Types registry file '/home/kitamura/.cache/typescript/4.5/node_modules/types-registry/index.json' does not exist
